@@ -1,5 +1,7 @@
 <h1 align="center">Software Developer</h1>
-<p align="center"><i>Neovim enjoyer.</i></p>
+<div align="center">
+  <img src="https://i.pinimg.com/736x/89/e7/b0/89e7b0a5a8ba9742937e3ec2b368dbec.jpg" width="250" />
+</div>
 
 ### About Me
 I'm currently part of the **Navii** startup, where I'm diving into cutting-edge technologies and building impactful solutions. 
